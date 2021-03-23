@@ -1,0 +1,16 @@
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\bin\Debug\netcoreapp3.1\Stock_Checker.exe
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\bin\Debug\netcoreapp3.1\Stock_Checker.deps.json
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\bin\Debug\netcoreapp3.1\Stock_Checker.runtimeconfig.json
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\bin\Debug\netcoreapp3.1\Stock_Checker.runtimeconfig.dev.json
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\bin\Debug\netcoreapp3.1\Stock_Checker.dll
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\bin\Debug\netcoreapp3.1\Stock_Checker.pdb
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\obj\Debug\netcoreapp3.1\Stock_Checker.csprojAssemblyReference.cache
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\obj\Debug\netcoreapp3.1\Stock_Checker.AssemblyInfoInputs.cache
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\obj\Debug\netcoreapp3.1\Stock_Checker.AssemblyInfo.cs
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\obj\Debug\netcoreapp3.1\Stock_Checker.dll
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\obj\Debug\netcoreapp3.1\Stock_Checker.pdb
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\obj\Debug\netcoreapp3.1\Stock_Checker.genruntimeconfig.cache
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\obj\Debug\netcoreapp3.1\Stock_Checker.csproj.CopyComplete
+C:\Users\strip\source\repos\Stock_Checker\Stock_Checker\obj\Debug\netcoreapp3.1\Stock_Checker.csproj.CoreCompileInputs.cache
