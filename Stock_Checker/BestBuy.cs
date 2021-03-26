@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Stock_Checker
 {
-    class CanadaComputers
+    class BestBuy : Scraper
     {
+        public BestBuy(String url) :base(url) {
+
+        }
+
     }
 }
